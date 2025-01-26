@@ -1,1 +1,1 @@
-Pushin file to github repo from vs code 
+Pushing file to github repo from vs code 
